@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mittyhainan
-- 👀 I’m interested in data science, especially machine learning and deep learning. 
+- 👀 I’m interested in data science, especially machine learning and deep learning, and its application in various interdisciplinary fields. 
 - 🌱 I’m currently pursuing my Master's degree at Harvard University in Heath Data Science
 - 📫 How to reach me: mittyhainan@gmail.com / hainanxiong@hsph.harvard.edu
 
